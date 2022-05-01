@@ -1,8 +1,0 @@
-Changes with respect to DelayAndSumFINAL
-
-NEW FILES:
-ShowResultsLateral	
-CHANGELOG.txt
-
-MODIFIED FILES:
-README.txt
