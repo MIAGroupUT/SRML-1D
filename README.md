@@ -24,16 +24,17 @@ The code is organized into three folders:
 
 This code is available under an MIT licencse. If you use (parts of) the code, please cite our IEEE TMI article:
 
-N. Blanken, J. M. Wolterink, H. Delingette, C. Brune, M. Versluis and G. Lajoinie, "Super-Resolved Microbubble Localization in Single-Channel Ultrasound RF Signals Using Deep Learning," in *IEEE Transactions on Medical Imaging*, doi: 10.1109/TMI.2022.3166443.
+N. Blanken, J. M. Wolterink, H. Delingette, C. Brune, M. Versluis and G. Lajoinie, "Super-Resolved Microbubble Localization in Single-Channel Ultrasound RF Signals Using Deep Learning," in *IEEE Transactions on Medical Imaging*, vol. 41, no. 9, pp. 2532-2542, Sept. 2022, doi: 10.1109/TMI.2022.3166443.
 
     @article{9755198,
         author={Blanken, Nathan and Wolterink, Jelmer M. and Delingette, Hervé and Brune, Christoph and Versluis, Michel and Lajoinie, Guillaume},
         journal={IEEE Transactions on Medical Imaging}, 
         title={Super-Resolved Microbubble Localization in Single-Channel Ultrasound RF Signals Using Deep Learning}, 
         year={2022},
-        volume={},
-        number={},
-        pages={1-1},
+        volume={41},
+        number={9},
+        pages={2532-2542},
         doi={10.1109/TMI.2022.3166443}
     }
+    
 
